@@ -7,6 +7,6 @@ Mon premier projet BTS Génie Logiciel
 </head>
 <body>
     <h1>Bonjour le monde !</h1>
-    <p>Je suis Jodrel et je prépare un BTS en Génie Logiciel à Brazzaville.</p>
+    <p>Je suis Aimé Yoka et je prépare un BTS en Génie Logiciel à Brazzaville.</p>
 </body>
 </html>
