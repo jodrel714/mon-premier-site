@@ -1,6 +1,5 @@
 # mon-premier-site
 Mon premier projet BTS Génie Logiciel 
-<!DOCTYPE html>
 <html>
 <head>
     <title>Mon Premier Site</title>
